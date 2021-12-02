@@ -7,9 +7,8 @@ public class Demo {
 		StaticGlobal sg2 = new StaticGlobal();
 		sg1.y = 9.99;
 		StaticGlobal.x = 10;
+//		StaticGlobal.CURR="USD";
 		sg1.x = 77;
-//		StaticGlobal.CURR = "USD";
-
 		sg2.y = 9.77;
 		StaticGlobal.x = 11;
 		sg2.x = 99;
